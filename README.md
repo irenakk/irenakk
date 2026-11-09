@@ -1,6 +1,6 @@
 # Hi, I'm Irena Kalieva 👋
 
-**Golang Backend Developer · Moscow, Russia**
+**Golang Backend Developer**
 
 I build backend systems that move money and data without losing either: payment platforms, data-stream pipelines and e-commerce backends on Go, PostgreSQL and Kafka.
 
@@ -26,7 +26,7 @@ Focus: distributed systems, data streaming, payment systems, exactly-once proces
 
 | Project | What it is |
 |---|---|
-| [ÖMANKÖ backend]([Behance]) | Backend for a fashion brand's Webflow store: stock reservation, card and Yandex Split payments, an idempotent post-payment pipeline. Case study, the code is private |
+| [ÖMANKÖ backend](https://www.behance.net/gallery/243916303/OEMANKOE-online-store-and-customer-account) | Backend for a fashion brand's Webflow store: stock reservation, card and Yandex Split payments, an idempotent post-payment pipeline. Case study, the code is private |
 | [newWalletService](https://github.com/irenakk/newWalletService) · [userService](https://github.com/irenakk/userService) · [telegramMessenger](https://github.com/irenakk/telegramMessenger) | Wallet platform of three Go services: multi-currency wallets, JWT auth, gRPC between services, Telegram notifications through Kafka |
 | [testWallet](https://github.com/irenakk/testWallet) | Wallet REST API that keeps balances correct under many parallel requests: PostgreSQL, migrations, tests, Docker Compose |
 | [faSchedule](https://github.com/irenakk/faSchedule) | Telegram bot with class schedules for Financial University groups |
