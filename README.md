@@ -4,7 +4,7 @@
 
 I build backend systems that move money and data without losing either: payment platforms, data-stream pipelines and e-commerce backends on Go, PostgreSQL and Kafka.
 
-📫 [irenakalieva@gmail.com] · [LinkedIn](https://www.linkedin.com/in/[your-profile])
+📫 irenakalieva@gmail.com · [LinkedIn](https://www.linkedin.com/in/irena-kalieva/)
 
 ## 🎓 Education
 
